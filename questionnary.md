@@ -14,3 +14,19 @@
 
   >
 
+
+## 👨‍💼​ Personnes
+
+- **Quels sont les besoins des apprenants ?**
+
+  > 
+
+- **Quels sont les besoins des formateurs ?**
+
+  > 
+
+- **Quels sont les besoins de Simplon ?**
+
+  > 
+
+
