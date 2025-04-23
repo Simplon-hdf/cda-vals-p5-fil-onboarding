@@ -2,92 +2,172 @@
 
 ## 🎯 Objectif
 
-- **Quel événement vous a donné envie de lancer ce projet ?**
+**Quel événement vous a donné envie de lancer ce projet ?**
+
+> 
+
+**Qu'est-ce que cette application pourrait faire pour vous ?** 
+
+>
+
+  **Est-ce le partage de ressources ?**
+
+  >
+
+  **Est-ce la création de lien entre personnes ?**
+
+  >
+  
+  **La mise en avant de ressources utile et à jour par les utilisateurs ?**
+
+  >  
+
+
+
+
+**Qu'est-ce que cette application pourrait vous apporter ?**
+
+>
+  
+  **Gain de temps ?**
+  
+  >
+  
+  **Augmenter l'engagement des utilisateurs ?**
+
+  >
+
+  **Améliorer l'organisation des ressouces ?**
+
+  >
+  
+  **Gestion plus profesionnelle de la communauté ?**
+
+  >
+  
+
+  **Quels critères indiqueraient une réussite de ce projet ?**
 
   > 
 
-- **Qu'est-ce que cette application pourrait faire pour vous ?**  
-  (partage, création de liens entre personnes, mise en avant de ressources utiles par les utilisateurs, etc.)
+  **Qu'espérez-vous de cette application ?**
 
   > 
 
-*Si la réponse précente est technique*
-- **Qu'est-ce que cette application pourrait vous apporter ?**
-(Explication: Les fonctionnalités sont à part, mais quels sont les avantages c'est cette question, ça quoi ça sert ultimement)
-  (Gain de temps, augmenter l'engagement des utilisateurs, améliorer l'organisation, gestion plus professionnelle, etc.)
-
-  > 
-
-- **Quels critères indiqueraient une réussite de ce projet ?**
-*/ Quels sont vos indicateurs de succès ?*
+  **Quel(s) problèmes est-ce que ça va régler ?**
 
   > 
 
 
 ## 👨💼 Personnes
 
-- **Qui utiliserait cette application ?** */ Comment décririez-vous les utilisateurs de cette application ?*
-  (Formatteurs, apprenants, personnel, invités, etc.)
+**Comment se passe l'interaction avec vos membres ?**
+(Si besoin d'augmenter, création de parties discord avec sujets à thèmes communs à tout le monde)
 
-  > 
+> 
 
-- **Quels sont les besoins des apprenants ?**
+**Qui utiliserait cette application ?** 
+- [ ] Formateurs
+- [ ] Apprenants
+- [ ] Alumnis
+- [ ] Personnel
+- [ ] Externnes à Simplon
+- [ ] Autres acteurs
+> 
 
-  > 
+Questions suivantes au jugement du client (**Selon vous...**)
+**Quels sont les besoins des [acteur] ?**
 
-- **Quels sont les besoins des formateurs ?**
+> 
 
-  > 
+**Quelles sont les difficultés des [acteur] ?**
 
-- **Quels sont les besoins de Simplon ?**
+> 
+  
+**Quel rôle est-ce que [acteur] jouera dans l'application ?**
 
-  > 
+> 
+
+Concerné | Besoins | Difficultés | Rôle dans l'app
+--| - | - | -
+Formateurs | >  | >  | > 
+Apprenants | >  | >  | > 
+Alumnis | >  | >  | > 
+Simplon | >  | >  | > 
+Personnel | >  | >  | > 
+Externes | >  | >  | > 
+/ | >  | >  | > 
+
+*Autres à rajouter...*
+
 
 ## 📁 Projet
 
-- **Quels problèmes ou défis rencontrez-vous avec votre communauté actuellement ?**
+### Ancien projet
+**Comment avez-vous vécu l'ancien projet ?**
 
-  > 
+> 
 
-- **Comment vous organisez-vous actuellement pour gérer ces difficultés ?**
+*Tenter de creuser les points relevés comme bons.*
+**Quels étaient les points forts du précédent projet ?**
 
-  > 
+>
 
-- **Sur quelle(s) plateforme(s) souhaitez-vous utiliser cette application ?**
-(Discord, site web, etc.)
 
-  > 
+*Tenter de creuser les problèmes pour les éviter. Exemples:*
+**Quels problèmes ont été rencontrés ?**
 
-- **Quel avantage vous pousse vers ce choix de plateforme ?**
+> 
 
-  >
+**Selon vous, qu'est-ce qui a causé l'échec de ce projet ?**
 
-*Si c’est une plateforme existante*
-- --> *Comment imaginez-vous l’intégration de l'application et son interaction avec votre système actuel ?**
+> 
 
-  > 
+**Qu'est-ce que vous attendez de différent avec nous ?**
 
-- **Y a-t-il des restrictions concernant la gestion et l'interaction des utilisateurs ?**
+> 
 
-  > 
 
-- **Qu'espérez-vous de cette application ?** (Quel(s) problèmes est-ce que ça va régler ?)
+### Pour nous
+**Quels problèmes ou défis rencontrez-vous avec votre communauté actuellement ?**
 
-  > 
+> 
 
-- **Quelles sont vos craintes pour vos utilisateurs ?**
+**Comment vous organisez-vous actuellement pour gérer ces difficultés ?**
 
-  > 
+> 
+
+**Sur quelle(s) plateforme(s) souhaitez-vous utiliser cette application ?**
+(Discord, site web)
+
+> 
+
+**Quel avantage vous pousse vers ce choix de plateforme ?**
+
+>
+
+
+**Comment imaginez-vous l’intégration de l'application et son interaction avec votre système actuel ?**
+
+> 
+
+**Y a-t-il des restrictions concernant la gestion et l'interaction des utilisateurs ?**
+
+> 
+
+**Quelles sont vos craintes pour vos utilisateurs ?**
+
+> 
 
 
 ## Questions finales
 
 
-- **Comment imaginez-vous cette application dans 6 mois ?**
+**Comment imaginez-vous cette application dans 6 mois ?**
 
-  > 
+> 
 
 
-- **Parmi tous les besoins que vous souhaitez résoudre avec cette application, lequel est une priorité pour vous ?**
+**Parmi tous les besoins que vous souhaitez résoudre avec cette application, lequel est une priorité pour vous ?**
 
-  > 
+> 
