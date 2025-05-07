@@ -2,11 +2,11 @@
 
 ## 🎯 Objectif
 
-**Quel événement vous a donné envie de lancer ce projet ?**
+**Qu’est-ce qui vous a donné envie de lancer ce projet ?**
 
 > 
 
-**Qu'est-ce que cette application pourrait faire pour vous ?** 
+**Qu’est-ce que vous aimeriez que l’application fasse concrètement ?** 
 
 >
 
@@ -25,7 +25,7 @@
 
 
 
-**Qu'est-ce que cette application pourrait vous apporter ?**
+**Qu’est-ce que ça pourrait vous apporter au quotidien ?**
 
 >
   
@@ -33,11 +33,11 @@
   
   >
   
-  **Augmenter l'engagement des utilisateurs ?**
+  **Créer plus d’interactions avec les membres ?**
 
   >
 
-  **Améliorer l'organisation des ressouces ?**
+  **Mieux organiser vos ressources ?**
 
   >
   
@@ -46,22 +46,22 @@
   >
   
 
-  **Quels critères indiqueraient une réussite de ce projet ?**
+  **À quoi sauriez-vous que le projet est réussi ?**
 
   > 
 
-  **Qu'espérez-vous de cette application ?**
+  **Qu’est-ce que vous attendez vraiment de cette application ?**
 
   > 
 
-  **Quel(s) problèmes est-ce que ça va régler ?**
+  **Quels sont les problèmes que vous rencontrez aujourd’hui que ça pourrait résoudre ?**
 
   > 
 
 
 ## 👨💼 Personnes
 
-**Comment se passe l'interaction avec vos membres ?**
+**Aujourd’hui, comment se passent les échanges avec votre communauté ?**
 (Si besoin d'augmenter, création de parties discord avec sujets à thèmes communs à tout le monde)
 
 > 
@@ -104,22 +104,22 @@ Externes | >  | >  | >
 ## 📁 Projet
 
 ### Ancien projet
-**Comment avez-vous vécu l'ancien projet ?**
+**Vous avez déjà tenté un projet similaire ? Comment ça s’est passé ?**
 
 > 
 
 *Tenter de creuser les points relevés comme bons.*
-**Quels étaient les points forts du précédent projet ?**
+**Qu’est-ce qui est à gardé ?**
 
 >
 
 
 *Tenter de creuser les problèmes pour les éviter. Exemples:*
-**Quels problèmes ont été rencontrés ?**
+**Et qu’est-ce qui avait coincé ?**
 
 > 
 
-**Selon vous, qu'est-ce qui a causé l'échec de ce projet ?**
+**Selon vous, pourquoi ça n’a pas abouti comme prévu ?**
 
 > 
 
@@ -129,33 +129,33 @@ Externes | >  | >  | >
 
 
 ### Pour nous
-**Quels problèmes ou défis rencontrez-vous avec votre communauté actuellement ?**
+**Quels sont les soucis actuels avec votre communauté ?**
 
 > 
 
-**Comment vous organisez-vous actuellement pour gérer ces difficultés ?**
+**Comment vous gérez ça aujourd’hui ? (moyens, outils, méthodes…)**
 
 > 
 
-**Sur quelle(s) plateforme(s) souhaitez-vous utiliser cette application ?**
+**Où aimeriez-vous que l’application soit utilisée ?**
 (Discord, site web)
 
 > 
 
-**Quel avantage vous pousse vers ce choix de plateforme ?**
+**Pourquoi ce choix ?**
 
 >
 
 
-**Comment imaginez-vous l’intégration de l'application et son interaction avec votre système actuel ?**
+**Vous imaginez comment l’intégration avec vos outils actuels ?**
 
 > 
 
-**Y a-t-il des restrictions concernant la gestion et l'interaction des utilisateurs ?**
+**Y a-t-il des contraintes spécifiques sur les droits ou la gestion des utilisateurs ?**
 
 > 
 
-**Quelles sont vos craintes pour vos utilisateurs ?**
+**Qu’est-ce qui pourrait poser souci selon vous pour vos utilisateurs ?**
 
 > 
 
@@ -168,6 +168,6 @@ Externes | >  | >  | >
 > 
 
 
-**Parmi tous les besoins que vous souhaitez résoudre avec cette application, lequel est une priorité pour vous ?**
+**S’il fallait prioriser un seul besoin, ce serait lequel ?**
 
 > 
