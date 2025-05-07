@@ -137,7 +137,7 @@ Externes | >  | >  | >
 
 > 
 
-**Où aimeriez-vous que l’application soit utilisée ?**
+**Où aimeriez-vous que l'application soit utilisée ?**
 (Discord, site web)
 
 > 
