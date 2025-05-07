@@ -2,11 +2,11 @@
 
 ## 🎯 Objectif
 
-**Qu’est-ce qui vous a donné envie de lancer ce projet ?**
+**Qu'est-ce qui vous a donné envie de lancer ce projet ?**
 
 > 
 
-**Qu’est-ce que vous aimeriez que l’application fasse concrètement ?** 
+**Qu'est-ce que vous aimeriez que l’application fasse concrètement ?** 
 
 >
 
@@ -25,7 +25,7 @@
 
 
 
-**Qu’est-ce que ça pourrait vous apporter au quotidien ?**
+**Qu'est-ce que ça pourrait vous apporter?**
 
 >
   
@@ -50,7 +50,7 @@
 
   > 
 
-  **Qu’est-ce que vous attendez vraiment de cette application ?**
+  **Qu'est-ce que vous attendez vraiment de cette application ?**
 
   > 
 
@@ -61,7 +61,7 @@
 
 ## 👨💼 Personnes
 
-**Aujourd’hui, comment se passent les échanges avec votre communauté ?**
+**Aujourd'hui, comment se passent les échanges avec votre communauté ?**
 (Si besoin d'augmenter, création de parties discord avec sujets à thèmes communs à tout le monde)
 
 > 
@@ -104,7 +104,7 @@ Externes | >  | >  | >
 ## 📁 Projet
 
 ### Ancien projet
-**Vous avez déjà tenté un projet similaire ? Comment ça s’est passé ?**
+**Vous avez déjà tenté un projet similaire ? Comment ça s'est passé ?**
 
 > 
 
@@ -119,7 +119,7 @@ Externes | >  | >  | >
 
 > 
 
-**Selon vous, pourquoi ça n’a pas abouti comme prévu ?**
+**Selon vous, pourquoi ça n'a pas abouti comme prévu ?**
 
 > 
 
@@ -155,7 +155,7 @@ Externes | >  | >  | >
 
 > 
 
-**Qu’est-ce qui pourrait poser souci selon vous pour vos utilisateurs ?**
+**Qu'est-ce qui pourrait poser souci selon vous pour vos utilisateurs ?**
 
 > 
 
@@ -168,6 +168,6 @@ Externes | >  | >  | >
 > 
 
 
-**S’il fallait prioriser un seul besoin, ce serait lequel ?**
+**S'il fallait prioriser un seul besoin, ce serait lequel ?**
 
 > 
