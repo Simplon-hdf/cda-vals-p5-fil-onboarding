@@ -115,7 +115,7 @@ Externes | >  | >  | >
 
 
 *Tenter de creuser les problèmes pour les éviter. Exemples:*
-**Et qu’est-ce qui avait coincé ?**
+**Et qu'est-ce qui avait coincé ?**
 
 > 
 
