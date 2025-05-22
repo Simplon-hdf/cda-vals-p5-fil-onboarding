@@ -1,68 +1,173 @@
-## 🚀 Objectif
+# Questionnaire - Community
 
-- Nous avons compris que votre objectif est de faciliter le partage de ressources sur votre Discord et d'augmenter les interactions entre les membres.
+## 🎯 Objectif
 
-## 🔍 La recherche
+**Qu'est-ce qui vous a donné envie de lancer ce projet ?**
 
-- **🤖 Pour le partage de ressources, nous vous proposons un système permettant de les enregistrer avec un bot et de les rechercher ensuite.**
+> 
+
+**Qu'est-ce que vous aimeriez que l’application fasse concrètement ?** 
+
+>
+
+  **Est-ce le partage de ressources ?**
 
   >
 
-- **🧩 Voici les options que nous vous proposons :**  
+  **Est-ce la création de lien entre personnes ?**
+
+  >
   
-  - [ ] ✅ Système de vote pour juger les ressources et mettre en avant celles approuvées par la communauté  
-  - [ ] 📝 Associer des descriptions pour expliquer les ressources  
-  - [ ] 🏷️ Ajout de mots-clés pour faciliter la recherche  
-  - [ ] ✏️ Possibilité pour la communauté de modifier les descriptions et les tags  
-  - [ ] ❌ Suppression automatique des ressources rejetées par la communauté  
-  - [ ] ⭐ Droits pour certains rôles de mettre en avant des ressources lors des recherches  
-  - [ ] 🛡️ Droits pour certains rôles de supprimer une ressource, quels que soient les votes  
-  - [ ] 🔒 Affichage des résultats de recherche uniquement à l'utilisateur qui en fait la demande, avec une option pour en rendre certains publics  
-  - [ ] 🗑️ Possibilité de supprimer les résultats d'une recherche  
-  - [ ] 📢 Recommandations de comptes à suivre pour faire de la veille technologique  
+  **La mise en avant de ressources utile et à jour par les utilisateurs ?**
 
-- **➕ Y a-t-il une option manquante selon vous ?**
+  >  
+
+
+
+
+**Qu'est-ce que ça pourrait vous apporter?**
+
+>
+  
+  **Gain de temps ?**
+  
+  >
+  
+  **Créer plus d’interactions avec les membres ?**
 
   >
 
-## 👥 La communauté
-
-Dans le but d’augmenter l’interaction sur le serveur, nous voulons accroître l’intérêt des utilisateurs à y participer activement.
-
-- **📈 Un système de niveaux qui évolue avec la participation des utilisateurs ?**
+  **Mieux organiser vos ressources ?**
 
   >
-
-- **🎉 Des événements pour encourager les utilisateurs à participer ?**
-
-  >
-
-- **📌 Par exemple :**
-
-  - [ ] 🖼️ Concours hebdomadaire de mèmes, le mème avec le plus d’upvotes rapporte des points au gagnant  
-  - [ ] 🧠 Propositions de solutions à un kata, la meilleure réponse (la plus upvotée) rapporte des points  
-  - [ ] ❓ Questions sur l’univers du développement, la meilleure réponse rapporte des points  
-
-- **💬 Un forum pour poster des questions, avec un système permettant au créateur de valider une solution, marquant automatiquement le sujet comme résolu et mettant à jour le tag ?**
+  
+  **Gestion plus profesionnelle de la communauté ?**
 
   >
+  
 
-- **🏆 Un leaderboard pour mettre en avant les contributions et montrer l’engagement des membres ?**
+  **À quoi sauriez-vous que le projet est réussi ?**
 
-  >
+  > 
 
-- **👤 La possibilité pour chaque membre de remplir un profil consultable à partir de son pseudo via une commande Discord (description, LinkedIn, GitHub, etc.) ?**
+  **Qu'est-ce que vous attendez vraiment de cette application ?**
 
-  >
+  > 
 
-## 🛠️ Le Discord
+  **Quels sont les problèmes que vous rencontrez aujourd’hui que ça pourrait résoudre ?**
 
-Pour la gestion du serveur Discord.
+  > 
 
-- **🔊 Un système de création automatique de salons vocaux temporaires ?**
 
-  >
+## 👨💼 Personnes
 
-- **📅 Un système de création automatisée de salons pour une nouvelle promo, avec toutes les catégories nécessaires, et une suppression automatique après une certaine date ?**
+**Aujourd'hui, comment se passent les échanges avec votre communauté ?**
+(Si besoin d'augmenter, création de parties discord avec sujets à thèmes communs à tout le monde)
 
-  >
+> 
+
+**Qui utiliserait cette application ?** 
+- [ ] Formateurs
+- [ ] Apprenants
+- [ ] Alumnis
+- [ ] Personnel
+- [ ] Externnes à Simplon
+- [ ] Autres acteurs
+> 
+
+Questions suivantes au jugement du client (**Selon vous...**)
+**Quels sont les besoins des [acteur] ?**
+
+> 
+
+**Quelles sont les difficultés des [acteur] ?**
+
+> 
+  
+**Quel rôle est-ce que [acteur] jouera dans l'application ?**
+
+> 
+
+Concerné | Besoins | Difficultés | Rôle dans l'app
+--| - | - | -
+Formateurs | >  | >  | > 
+Apprenants | >  | >  | > 
+Alumnis | >  | >  | > 
+Simplon | >  | >  | > 
+Personnel | >  | >  | > 
+Externes | >  | >  | > 
+/ | >  | >  | > 
+
+*Autres à rajouter...*
+
+
+## 📁 Projet
+
+### Ancien projet
+**Vous avez déjà tenté un projet similaire ? Comment ça s'est passé ?**
+
+> 
+
+*Tenter de creuser les points relevés comme bons.*
+**Qu’est-ce qui est à gardé ?**
+
+>
+
+
+*Tenter de creuser les problèmes pour les éviter. Exemples:*
+**Et qu'est-ce qui avait coincé ?**
+
+> 
+
+**Selon vous, pourquoi ça n'a pas abouti comme prévu ?**
+
+> 
+
+**Qu'est-ce que vous attendez de différent avec nous ?**
+
+> 
+
+
+### Pour nous
+**Quels sont les soucis actuels avec votre communauté ?**
+
+> 
+
+**Comment vous gérez ça aujourd’hui ? (moyens, outils, méthodes…)**
+
+> 
+
+**Où aimeriez-vous que l'application soit utilisée ?**
+(Discord, site web)
+
+> 
+
+**Pourquoi ce choix ?**
+
+>
+
+
+**Vous imaginez comment l’intégration avec vos outils actuels ?**
+
+> 
+
+**Y a-t-il des contraintes spécifiques sur les droits ou la gestion des utilisateurs ?**
+
+> 
+
+**Qu'est-ce qui pourrait poser souci selon vous pour vos utilisateurs ?**
+
+> 
+
+
+## Questions finales
+
+
+**Comment imaginez-vous cette application dans 6 mois ?**
+
+> 
+
+
+**S'il fallait prioriser un seul besoin, ce serait lequel ?**
+
+> 
