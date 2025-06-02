@@ -1,8 +1,10 @@
-> Objet : Demande de rendez-vous – Projet en collaboration avec Simplon
+> Objet : Demande de rendez-vous
 
-Madame, Monsieur,
+Madame,Monsieur,
 
-Je me permets de vous contacter par e-mail afin de fixer un premier rendez-vous concernant le projet dont vous nous aviez mentionné. Nous avons hâte d’en apprendre davantage sur vos besoins et vos attentes.
+Je me permets de vous contacter afin de convenir d’un premier rendez-vous pour vous présenter notre proposition de fonctionnalités, suite aux échanges précédents concernant votre projet.
+
+Nous avons hâte de recueillir vos retours et d’ajuster notre approche en fonction de vos priorités.
 
 Auriez-vous des disponibilités cette semaine ou la suivante pour une première rencontre ?
 
