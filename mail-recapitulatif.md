@@ -11,6 +11,7 @@ Durant notre dernier rendez-vous, nous avons porté une attention particulière 
 - L'aspect communautaire doit être mis en avant, en valorisant les interactions et échanges
 
 Nos propositions, la recherche, le système de vote, une game-ification comme le forum d'aide, sont des solutions potentielles à vos besoins. Nous aimerions donc explorer ces pistes avec vous, notament élaborer le système de profils, et possiblement de pousser plus loin.
+Nous vous ferons également part de problèmes rencontrés à cause de la plateforme Discord en elle-même, afin de trouver le meilleur compromis en vue de certaines limitations dont nous avons déjà conscience.
 
 
 N'hésitez pas à nous faire part de vos retours, soient-ils par courriel ou par un rendez-vous.
