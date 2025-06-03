@@ -1,16 +1,30 @@
 # Règles de gestion
 
+
+## Membre
+
+**RG 01**: Un membre doit avoir un compte Discord.
+
+**RG 02**: Un membre peut avoir un rôle de modération sur Discord.
+
+**RG 03**: Un membre peut partager une ressource sur un des forums de ressources.
+
+**RG 04**: Un membre peut demander de l'aide sur le forum de questions.
+
+**RG 05**: Un membre peut valider une réponse pour chacune de ses questions.
+
+
 ## Forum de ressources
 
-**RG 01**: Un forum doit refléter un type de ressources.
+**RG 06**: Un forum doit refléter un type de ressources.
 
-**RG 02**: Un forum peut avoir une collection de ressources.
+**RG 07**: Un forum peut avoir une collection de ressources.
 
-**RG 03**: Un forum doit appartenir à une catégorie Discord spécifique "Ressources".
+**RG 08**: Un forum doit appartenir à une catégorie Discord spécifique "Ressources".
 
 
 ## Ressource
-**RG 04** : Une ressource doit avoir:
+**RG 09** : Une ressource doit avoir:
 - Un titre
 - Une description
 - Une date de publication
@@ -18,60 +32,47 @@
 - L'identifiant du sujet Discord associé
 - Un lien (médias compris)
 
-**RG 05**: Une ressource est liée à un sujet Discord dans un forum de ressources.
+**RG 10**: Une ressource est liée à un sujet Discord dans un forum de ressources.
 
-**RG 06**: Une ressource est supprimée avec la supression de son sujet Discord associé.
+**RG 11**: Une ressource est supprimée avec la supression de son sujet Discord associé.
 
-**RG 07**: Une ressource peut avoir des étiquettes spécifiques au bot.
+**RG 12**: Une ressource peut avoir des étiquettes spécifiques au bot.
 
-**RG 08**: Une ressource peut recevoir des votes positifs et négatifs.
+**RG 13**: Une ressource peut recevoir des votes positifs et négatifs.
 
-**RG 09**: Une ressource peut avoir des commentaires, caractérisés par des réponses dans le sujet.
+**RG 14**: Une ressource peut avoir des commentaires, caractérisés par des réponses dans le sujet.
 
-**RG 10**: Une ressource peut être mise en avant par un modérateur.
+**RG 15**: Une ressource peut être mise en avant par un modérateur.
 
-**RG 11**: Une ressource peut être ajoutée par tout membre.
+**RG 16**: Une ressource peut être ajoutée par tout membre.
 
-**RG 12**: Une ressource peut être supprimée par son auteur ou un modérateur.
+**RG 17**: Une ressource peut être supprimée par son auteur ou un modérateur.
 
-**RG 13**: Le corps d'une ressource peut être mise à jour uniquement par son auteur.
+**RG 18**: Le corps d'une ressource peut être mise à jour uniquement par son auteur.
 
 
 ## Recherche
 
-**RG 14**: Une recherche doit avoir des termes.
+**RG 19**: Une recherche doit avoir des termes.
 
-**RG 15**: Une recherche doit renvoyer une liste de résultats.
+**RG 20**: Une recherche doit renvoyer une liste de résultats.
 
-**RG 16**: Une recherche peut avoir des résultats mis en avant.
+**RG 21**: Une recherche peut avoir des résultats mis en avant.
 
-**RG 17**: Une recherche peut filtrer par le titre et corps.
+**RG 22**: Une recherche peut filtrer par le titre et corps.
 
-**RG 18**: Une recherche peut filtrer par les étiquettes.
+**RG 23**: Une recherche peut filtrer par les étiquettes.
 
-**RG 19**: Une recherche peut trier par votes.
+**RG 24**: Une recherche peut trier par votes.
 
-**RG 20**: Une recherche peut trier par date.
+**RG 25**: Une recherche peut trier par date.
 
 
 ## Étiquette
 
-**RG 21**: Une étiquette doit avoir un nom.
+**RG 26**: Une étiquette doit avoir un nom.
 
-**RG 22**: Une étiquette doit être unique.
-
-
-## Membre
-
-**RG 23**: Un membre doit avoir un compte Discord.
-
-**RG 24**: Un membre peut avoir un rôle de modération sur Discord.
-
-**RG 25**: Un membre peut partager une ressource sur un des forums de ressources.
-
-**RG 26**: Un membre peut demander de l'aide sur le forum de questions.
-
-**RG 27**: Un membre peut valider une réponse pour chacune de ses questions.
+**RG 27**: Une étiquette doit être unique.
 
 
 ## Question
