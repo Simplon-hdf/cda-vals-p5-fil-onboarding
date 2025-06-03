@@ -68,51 +68,51 @@
 - Un prénom
 - Une présentation
 
-**RG 27**: Un profil est unique à chaque membre
+**RG 25**: Un profil est unique à chaque membre
 
-**RG 28**: Un profil peut avoir un compte GitHub lié
+**RG 26**: Un profil peut avoir un compte GitHub lié
 
-**RG 29**: Un profil peut avoir un compte LinkedIn associé
+**RG 27**: Un profil peut avoir un compte LinkedIn associé
 
-**RG 30**: Un profil doit être uniquement modifiable par l'auteur
+**RG 28**: Un profil doit être uniquement modifiable par l'auteur
 
-**RG 31**: Un profil peut être supprimé par un modérateur ou l'auteur
+**RG 29**: Un profil peut être supprimé par un modérateur ou l'auteur
 
 
 ## Étiquette
 
-**RG 32**: Une étiquette doit avoir un nom.
+**RG 30**: Une étiquette doit avoir un nom.
 
-**RG 33**: Une étiquette doit être unique.
+**RG 31**: Une étiquette doit être unique.
 
 
 ## Question
 
-**RG 34**: Une question doit avoir:
+**RG 32**: Une question doit avoir:
 - Un titre de sujet
 - Un corps
 - Une date de publication
 - Un auteur
 
-**RG 35**: Une question peut être voté positivement ou négativement
+**RG 33**: Une question peut être voté positivement ou négativement
 
-**RG 36**: Une question peut avoir des étiquettes
+**RG 34**: Une question peut avoir des étiquettes
 
-**RG 37**: Une question doit référencer son message d'origine (même si mort)
+**RG 35**: Une question doit référencer son message d'origine (même si mort)
 
-**RG 38**: Une question peut être supprimée par l'auteur ou un modérateur
+**RG 36**: Une question peut être supprimée par l'auteur ou un modérateur
 
 
 ## Solution
 
-**RG 39**: Une solution doit avoir:
+**RG 37**: Une solution doit avoir:
 - Un auteur
 - Un corps
 - Une date de publication
 
-**RG 40**: Une solution doit apartenir à une discussion d'aide
+**RG 38**: Une solution doit apartenir à une discussion d'aide
 
-**RG 41**: Une solution peut être votée positivement ou négativement
+**RG 39**: Une solution peut être votée positivement ou négativement
 
-**RG 42**: Une solution peut être supprimée par l'auteur ou un modérateur
+**RG 40**: Une solution peut être supprimée par l'auteur ou un modérateur
 
