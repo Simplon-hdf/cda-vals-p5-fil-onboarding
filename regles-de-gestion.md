@@ -32,7 +32,7 @@
 - L'identifiant du sujet Discord associé
 - Un lien (médias compris)
 
-**RG 10**: Une ressource est liée à un sujet Discord dans un forum de ressources.
+**RG 10**: Une ressource est liée à un sujet Discord dans un forum de ressources. *(#RG 07)*
 
 **RG 11**: Une ressource est supprimée avec la supression de son sujet Discord associé.
 
@@ -57,7 +57,7 @@
 
 **RG 20**: Une recherche doit renvoyer une liste de résultats.
 
-**RG 21**: Une recherche peut avoir des résultats mis en avant.
+**RG 21**: Une recherche peut avoir des résultats mis en avant. *(#RG 15)*
 
 **RG 22**: Une recherche peut filtrer par le titre et corps.
 
@@ -77,12 +77,15 @@
 
 ## Question
 
-**RG 28**: Une question doit avoir:
+**RG 28**: Une question doit être lié à un sujet Discord.
+
+**RG 29**: Une question doit être dans le forum questions.
+
+**RG 30**: Une question doit avoir:
+- Un auteur
+- Un titre
+- Un corps
 - L'identifiant de son sujet associé
-
-**RG 29**: Une question doit être lié à un sujet de questions.
-
-**RG 30**: Une question doit être dans un forum questions.
 
 **RG 31**: Une question peut avoir des étiquettes.
 
