@@ -1,118 +1,107 @@
 # Règles de gestion
 
+
+## Membre
+
+**RG 01**: Un membre doit avoir un compte Discord.
+
+**RG 02**: Un membre peut avoir un rôle de modération sur Discord.
+
+**RG 03**: Un membre peut partager une ressource sur un des forums de ressources.
+
+**RG 04**: Un membre peut demander de l'aide sur le forum de questions.
+
+**RG 05**: Un membre peut valider une réponse pour chacune de ses questions.
+
+
+## Forum de ressources
+
+**RG 06**: Un forum doit refléter un type de ressources.
+
+**RG 07**: Un forum peut avoir une collection de ressources.
+
+**RG 08**: Un forum doit appartenir à une catégorie Discord spécifique "Ressources".
+
+
 ## Ressource
-**RG 01** : Une ressource doit avoir:
+**RG 09** : Une ressource doit avoir:
 - Un titre
 - Une description
 - Une date de publication
 - Un auteur
+- L'identifiant du sujet Discord associé
+- Un lien (médias compris)
 
-**RG 02**: Une ressource peut avoir des étiquettes.
+**RG 10**: Une ressource est liée à un sujet Discord dans un forum de ressources. *(#RG 07)*
 
-**RG 03**: Une ressource peut recevoir des notes positives et négatives.
+**RG 11**: Une ressource est supprimée avec la supression de son sujet Discord associé.
 
-**RG 04**: Une ressource peut avoir des commentaires.
+**RG 12**: Une ressource peut avoir des étiquettes spécifiques au bot.
 
-**RG 05**: Une ressource peut être épinglée par un modérateur.
+**RG 13**: Une ressource peut recevoir des votes positifs et négatifs.
 
-**RG 06**: Une ressource doit référencer son message d'origine même le message d'origine n'est plus disponible.
+**RG 14**: Une ressource peut avoir des commentaires, caractérisés par des réponses dans le sujet.
 
-**RG 07**: Une ressource doit référencer un lien (médias compris)
+**RG 15**: Une ressource peut être mise en avant par un modérateur.
 
-**RG 08**: Une ressource peut être ajoutée par tout membre
+**RG 16**: Une ressource peut être ajoutée par tout membre.
 
-**RG 09**: Une ressource peut être supprimée par son auteur ou un modérateur
+**RG 17**: Une ressource peut être supprimée par son auteur ou un modérateur.
 
-**RG 10**: Le corps d'une ressource peut être mise à jour uniquement par son auteur
+**RG 18**: Le corps d'une ressource peut être mise à jour uniquement par son auteur.
 
 
 ## Recherche
 
-**RG 11**: Une recherche peut être triée par date.
+**RG 19**: Une recherche doit avoir des termes.
 
-**RG 12**: Une recherche doit avoir des termes.
+**RG 20**: Une recherche doit renvoyer une liste de résultats.
 
-**RG 13**: Une recherche peut référencer les champs
+**RG 21**: Une recherche peut avoir des résultats mis en avant. *(#RG 15)*
 
-**RG 14**: Une recherche peut trier par réputation.
+**RG 22**: Une recherche peut filtrer par le titre et corps.
 
-**RG 15**: Une recherche doit renvoyer une liste de résultats.
+**RG 23**: Une recherche peut filtrer par les étiquettes.
 
-**RG 16**: Une recherche peut avoir des résultats mis en avant
+**RG 24**: Une recherche peut trier par votes.
 
-
-## Modérateur
-
-**RG 17**: Un modérateur est un membre
-
-**RG 18**: Un modérateur doit avoir des droits de modération.
-
-
-## Membre
-
-**RG 19**: Un membre doit avoir un compte discord.
-
-**RG 20**: Un membre peut commenter une ressource.
-
-**RG 21**: Un membre peut noter positivement ou négativement une fois par solution/ressource
-
-**RG 22**: Un membre peut demander de l'aide
-
-**RG 23**: Un membre peut valider une réponse sur ses discussions d'aide
-
-
-## Profil
-
-**RG 24**: Un profil doit avoir:
-- Un nom
-- Un prénom
-- Une présentation
-
-**RG 25**: Un profil est unique à chaque membre
-
-**RG 26**: Un profil peut avoir un compte GitHub lié
-
-**RG 27**: Un profil peut avoir un compte LinkedIn associé
-
-**RG 28**: Un profil doit être uniquement modifiable par l'auteur
-
-**RG 29**: Un profil peut être supprimé par un modérateur ou l'auteur
+**RG 25**: Une recherche peut trier par date.
 
 
 ## Étiquette
 
-**RG 30**: Une étiquette doit avoir un nom.
+**RG 26**: Une étiquette doit avoir un nom.
 
-**RG 31**: Une étiquette doit être unique.
+**RG 27**: Une étiquette doit être unique.
 
 
 ## Question
 
-**RG 32**: Une question doit avoir:
-- Un titre de sujet
-- Un corps
-- Une date de publication
+**RG 28**: Une question doit être lié à un sujet Discord.
+
+**RG 29**: Une question doit être dans le forum questions.
+
+**RG 30**: Une question doit avoir:
 - Un auteur
+- Un titre
+- Un corps
+- L'identifiant de son sujet associé
 
-**RG 33**: Une question peut être voté positivement ou négativement
+**RG 31**: Une question peut avoir des étiquettes.
 
-**RG 34**: Une question peut avoir des étiquettes
-
-**RG 35**: Une question doit référencer son message d'origine (même si mort)
-
-**RG 36**: Une question peut être supprimée par l'auteur ou un modérateur
+**RG 32**: Une question peut être supprimée par l'auteur ou un modérateur.
 
 
 ## Solution
 
-**RG 37**: Une solution doit avoir:
+**RG 33**: Une solution doit avoir:
 - Un auteur
 - Un corps
 - Une date de publication
 
-**RG 38**: Une solution doit apartenir à une discussion d'aide
+**RG 34**: Une solution doit apartenir à une discussion d'aide.
 
-**RG 39**: Une solution peut être votée positivement ou négativement
+**RG 35**: Une solution peut être votée positivement ou négativement.
 
-**RG 40**: Une solution peut être supprimée par l'auteur ou un modérateur
+**RG 36**: Une solution peut être supprimée par l'auteur ou un modérateur.
 
