@@ -40,8 +40,6 @@
 
 **RG 14**: Une ressource peut avoir des commentaires, caractérisés par des réponses dans le sujet.
 
-**RG 15**: Une ressource peut être mise en avant par un modérateur.
-
 **RG 16**: Une ressource peut être ajoutée par tout membre.
 
 **RG 17**: Une ressource peut être supprimée par son auteur ou un modérateur.
