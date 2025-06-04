@@ -32,76 +32,72 @@
 - L'identifiant du sujet Discord associé
 - Un lien (médias compris)
 
-**RG 10**: Une ressource est liée à un sujet Discord dans un forum de ressources. *(#RG 07)*
+**RG 10**: Une ressource est supprimée avec la suppression de son sujet Discord associé.
 
-**RG 11**: Une ressource est supprimée avec la supression de son sujet Discord associé.
+**RG 11**: Une ressource peut avoir des étiquettes spécifiques au bot.
 
-**RG 12**: Une ressource peut avoir des étiquettes spécifiques au bot.
+**RG 12**: Une ressource peut recevoir des votes positifs et négatifs.
 
-**RG 13**: Une ressource peut recevoir des votes positifs et négatifs.
+**RG 13**: Une ressource peut avoir des commentaires, caractérisés par des réponses dans le sujet.
 
-**RG 14**: Une ressource peut avoir des commentaires, caractérisés par des réponses dans le sujet.
+**RG 14**: Une ressource peut être ajoutée par tout membre.
 
-**RG 15**: Une ressource peut être mise en avant par un modérateur.
+**RG 15**: Une ressource peut être supprimée par son auteur ou un modérateur.
 
-**RG 16**: Une ressource peut être ajoutée par tout membre.
-
-**RG 17**: Une ressource peut être supprimée par son auteur ou un modérateur.
-
-**RG 18**: Le corps d'une ressource peut être mise à jour uniquement par son auteur.
+**RG 16**: Le corps d'une ressource peut être mise à jour uniquement par son auteur.
 
 
 ## Recherche
 
-**RG 19**: Une recherche doit avoir des termes.
+**RG 17**: Une recherche doit avoir des termes.
 
-**RG 20**: Une recherche doit renvoyer une liste de résultats.
+**RG 18**: Une recherche doit renvoyer une liste de résultats.
 
-**RG 21**: Une recherche peut avoir des résultats mis en avant. *(#RG 15)*
+**RG 19**: Une recherche peut être à propos de questions/solutions ou ressources.
 
-**RG 22**: Une recherche peut filtrer par le titre et corps.
+**RG 20**: Une recherche peut filtrer par le titre et corps.
 
-**RG 23**: Une recherche peut filtrer par les étiquettes.
+**RG 21**: Une recherche peut filtrer par les étiquettes.
 
-**RG 24**: Une recherche peut trier par votes.
+**RG 22**: Une recherche peut trier par votes.
 
-**RG 25**: Une recherche peut trier par date.
+**RG 23**: Une recherche peut trier par date.
 
 
 ## Étiquette
 
-**RG 26**: Une étiquette doit avoir un nom.
+**RG 24**: Une étiquette doit avoir un nom.
 
-**RG 27**: Une étiquette doit être unique.
+**RG 25**: Une étiquette doit être unique.
 
 
 ## Question
 
-**RG 28**: Une question doit être lié à un sujet Discord.
+**RG 26**: Une question doit être lié à un sujet Discord.
 
-**RG 29**: Une question doit être dans le forum questions.
+**RG 27**: Une question doit être dans le forum questions.
 
-**RG 30**: Une question doit avoir:
+**RG 28**: Une question doit avoir:
 - Un auteur
 - Un titre
 - Un corps
 - L'identifiant de son sujet associé
 
-**RG 31**: Une question peut avoir des étiquettes.
+**RG 29**: Une question peut avoir des étiquettes.
 
-**RG 32**: Une question peut être supprimée par l'auteur ou un modérateur.
+**RG 30**: Une question peut être supprimée par l'auteur ou un modérateur.
 
 
 ## Solution
 
-**RG 33**: Une solution doit avoir:
+**RG 31**: Une solution doit avoir:
 - Un auteur
 - Un corps
 - Une date de publication
 
-**RG 34**: Une solution doit apartenir à une discussion d'aide.
+**RG 32**: Une solution doit apartenir à une solution.
 
-**RG 35**: Une solution peut être votée positivement ou négativement.
+**RG 33**: Une solution peut être votée positivement ou négativement.
 
-**RG 36**: Une solution peut être supprimée par l'auteur ou un modérateur.
+**RG 34**: Une solution peut être supprimée par l'auteur ou un modérateur.
 
