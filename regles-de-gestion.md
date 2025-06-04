@@ -32,7 +32,7 @@
 - L'identifiant du sujet Discord associé
 - Un lien (médias compris)
 
-**RG 10**: Une ressource est supprimée avec la supression de son sujet Discord associé.
+**RG 10**: Une ressource est supprimée avec la suppression de son sujet Discord associé.
 
 **RG 11**: Une ressource peut avoir des étiquettes spécifiques au bot.
 
