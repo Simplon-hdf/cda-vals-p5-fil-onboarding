@@ -99,7 +99,7 @@
 - Un corps
 - Une date de publication
 
-**RG 34**: Une solution doit apartenir à une discussion d'aide.
+**RG 34**: Une solution doit apartenir à une solution.
 
 **RG 35**: Une solution peut être votée positivement ou négativement.
 
