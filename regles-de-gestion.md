@@ -57,7 +57,7 @@
 
 **RG 20**: Une recherche doit renvoyer une liste de résultats.
 
-**RG 21**: Une recherche peut avoir des résultats mis en avant. *(#RG 15)*
+**RG 21**: Une recherche peut être à propos de questions/solutions ou ressources.
 
 **RG 22**: Une recherche peut filtrer par le titre et corps.
 
