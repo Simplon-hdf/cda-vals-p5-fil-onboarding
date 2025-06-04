@@ -32,8 +32,6 @@
 - L'identifiant du sujet Discord associé
 - Un lien (médias compris)
 
-**RG 10**: Une ressource est liée à un sujet Discord dans un forum de ressources. *(#RG 07)*
-
 **RG 11**: Une ressource est supprimée avec la supression de son sujet Discord associé.
 
 **RG 12**: Une ressource peut avoir des étiquettes spécifiques au bot.
