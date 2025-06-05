@@ -13,18 +13,19 @@
 
 **RG 05**: Un membre peut valider une réponse pour chacune de ses questions.
 
+**RG 06**: Un membre a un niveau et des points d'expérience.
 
 ## Forum de ressources
 
-**RG 06**: Un forum doit refléter un type de ressources.
+**RG 07**: Un forum doit refléter un type de ressource.
 
-**RG 07**: Un forum peut avoir une collection de ressources.
+**RG 08**: Un forum peut avoir une collection de ressources.
 
-**RG 08**: Un forum doit appartenir à une catégorie Discord spécifique "Ressources".
+**RG 09**: Un forum doit appartenir à une catégorie Discord spécifique "Ressources".
 
 
 ## Ressource
-**RG 09** : Une ressource doit avoir:
+**RG 10** : Une ressource doit avoir:
 - Un titre
 - Une description
 - Une date de publication
@@ -32,72 +33,88 @@
 - L'identifiant du sujet Discord associé
 - Un lien (médias compris)
 
-**RG 10**: Une ressource est supprimée avec la suppression de son sujet Discord associé.
+**RG 11**: Une ressource est supprimée avec la suppression de son sujet Discord associé.
 
-**RG 11**: Une ressource peut avoir des étiquettes spécifiques au bot.
+**RG 12**: Une ressource peut avoir des étiquettes spécifiques au bot.
 
-**RG 12**: Une ressource peut recevoir des votes positifs et négatifs.
+**RG 13**: Une ressource peut recevoir des votes positifs et négatifs.
 
-**RG 13**: Une ressource peut avoir des commentaires, caractérisés par des réponses dans le sujet.
+**RG 14**: Une ressource peut avoir des commentaires, caractérisés par des réponses dans le sujet.
 
-**RG 14**: Une ressource peut être ajoutée par tout membre.
+**RG 15**: Une ressource peut être ajoutée par tout membre.
 
-**RG 15**: Une ressource peut être supprimée par son auteur ou un modérateur.
+**RG 16**: Une ressource peut être supprimée par son auteur ou un modérateur.
 
-**RG 16**: Le corps d'une ressource peut être mise à jour uniquement par son auteur.
+**RG 17**: Le corps d'une ressource peut être mis à jour uniquement par son auteur.
 
 
 ## Recherche
 
-**RG 17**: Une recherche doit avoir des termes.
+**RG 18**: Une recherche doit avoir des termes.
 
-**RG 18**: Une recherche doit renvoyer une liste de résultats.
+**RG 19**: Une recherche doit renvoyer une liste de résultats.
 
-**RG 19**: Une recherche peut être à propos de questions/solutions ou ressources.
+**RG 20**: Une recherche peut porter sur des questions/solutions ou des ressources.
 
-**RG 20**: Une recherche peut filtrer par le titre et corps.
+**RG 21**: Une recherche peut filtrer par le titre et le corps.
 
-**RG 21**: Une recherche peut filtrer par les étiquettes.
+**RG 22**: Une recherche peut filtrer par les étiquettes.
 
-**RG 22**: Une recherche peut trier par votes.
+**RG 23**: Une recherche peut trier par votes.
 
-**RG 23**: Une recherche peut trier par date.
+**RG 24**: Une recherche peut trier par date.
 
 
 ## Étiquette
 
-**RG 24**: Une étiquette doit avoir un nom.
+**RG 25**: Une étiquette doit avoir un nom.
 
-**RG 25**: Une étiquette doit être unique.
+**RG 26**: Une étiquette doit être unique.
 
 
 ## Question
 
-**RG 26**: Une question doit être lié à un sujet Discord.
+**RG 27**: Une question doit être liée à un sujet Discord.
 
-**RG 27**: Une question doit être dans le forum questions.
+**RG 28**: Une question doit être dans le forum questions.
 
-**RG 28**: Une question doit avoir:
+**RG 29**: Une question doit avoir:
 - Un auteur
 - Un titre
 - Un corps
 - L'identifiant de son sujet associé
 
-**RG 29**: Une question peut avoir des étiquettes.
+**RG 30**: Une question peut avoir des étiquettes.
 
-**RG 30**: Une question peut être supprimée par l'auteur ou un modérateur.
+**RG 31**: Une question peut être supprimée par l'auteur ou un modérateur.
 
 
 ## Solution
 
-**RG 31**: Une solution doit avoir:
+**RG 32**: Une solution doit avoir:
 - Un auteur
 - Un corps
 - Une date de publication
 
-**RG 32**: Une solution doit apartenir à une solution.
+**RG 33**: Une solution doit appartenir à une question.
 
-**RG 33**: Une solution peut être votée positivement ou négativement.
+**RG 34**: Une solution peut être votée positivement ou négativement.
 
-**RG 34**: Une solution peut être supprimée par l'auteur ou un modérateur.
+**RG 35**: Une solution peut être supprimée par l'auteur ou un modérateur.
 
+
+## Gamification
+
+**RG 36**: Les points d'expérience donnent des niveaux.
+
+**RG 37**: De l'expérience est donnée pour poster des messages.
+
+**RG 38**: De l'expérience est donnée pour poster des ressources.
+
+**RG 39**: De l'expérience est donnée pour la popularité des ressources et des solutions.
+
+**RG 40**: De l'expérience est donnée pour valider des solutions.
+
+**RG 41**: De l'expérience est donnée pour avoir une solution validée.
+
+**RG 42**: Un leaderboard des utilisateurs sera consultable.
