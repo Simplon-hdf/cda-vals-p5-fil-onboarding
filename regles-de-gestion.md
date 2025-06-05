@@ -111,7 +111,7 @@
 
 **RG 38**: De l'expérience est donnée pour poster des ressources.
 
-**RG 39**: De l'expérience est donnée pour la popularité des ressources et des solutions.
+**RG 39**: De l'expérience est donnée ou retiré pour la popularité des ressources et des solutions.
 
 **RG 40**: De l'expérience est donnée pour valider des solutions.
 
