@@ -107,7 +107,7 @@
 
 **RG 36**: Les points d'expérience donnent des niveaux.
 
-**RG 37**: De l'expérience est donnée pour poster des messages.
+**RG 37**: De l'expérience est donnée pour poster des messages régulièrement.
 
 **RG 38**: De l'expérience est donnée pour poster des ressources.
 
@@ -117,4 +117,6 @@
 
 **RG 41**: De l'expérience est donnée pour avoir une solution validée.
 
-**RG 42**: Un leaderboard des utilisateurs sera consultable.
+**RG 42**: De l'expérience est donnée pour voter.
+
+**RG 43**: Un leaderboard des utilisateurs sera consultable.
