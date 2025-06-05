@@ -119,16 +119,16 @@
 
 **RG 42**: De l'expérience est donnée pour voter.
 
-**RG 42**: De l'expérience est donnée pour poster des memes.
+**RG 43**: De l'expérience est donnée pour poster des médias dans des salons spécifiés.
 
-**RG 42**: De l'expérience est donnée pour poster des réactions au memes.
+**RG 44**: De l'expérience est donnée pour poster des réactions au médias.
 
 
-## Gamification
+## Leaderboard
 
-**RG 43**: Le leaderboard des utilisateurs sera consultable.
+**RG 45**: Le leaderboard des utilisateurs est consultable.
 
-**RG 43**: Le leaderboard affichera des stats.
+**RG 46**: Le leaderboard affiche des stats.
 
-**RG 43**: Le leaderboard aura des badges.
+**RG 47**: Le leaderboard affiche des badges selon les statistiques des membres.
 
