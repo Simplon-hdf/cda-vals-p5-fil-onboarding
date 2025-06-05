@@ -107,28 +107,30 @@
 
 **RG 36**: Les points d'expérience donnent des niveaux.
 
-**RG 37**: De l'expérience est donnée pour poster des messages régulièrement.
+**RG 37**: De l'expérience est donnée pour poster des messages.
 
 **RG 38**: De l'expérience est donnée pour poster des ressources.
 
-**RG 39**: De l'expérience est donnée ou retiré pour la popularité des ressources et des solutions.
+**RG 39**: Le gain d'expérience en postant des messages et médias a un temps de d'attente.
 
-**RG 40**: De l'expérience est donnée pour valider des solutions.
+**RG 40**: De l'expérience est donnée ou retirée pour la popularité des ressources et des solutions.
 
-**RG 41**: De l'expérience est donnée pour avoir une solution validée.
+**RG 41**: De l'expérience est donnée pour valider des solutions.
 
-**RG 42**: De l'expérience est donnée pour voter.
+**RG 42**: De l'expérience est donnée pour avoir une solution validée.
 
-**RG 43**: De l'expérience est donnée pour poster des médias dans des salons spécifiés.
+**RG 43**: De l'expérience est donnée pour voter.
 
-**RG 44**: De l'expérience est donnée pour poster des réactions au médias.
+**RG 44**: De l'expérience est donnée pour poster des médias dans des salons spécifiés.
+
+**RG 45**: De l'expérience est donnée pour poster des réactions au médias.
 
 
 ## Leaderboard
 
-**RG 45**: Le leaderboard des utilisateurs est consultable.
+**RG 46**: Le leaderboard des utilisateurs est consultable.
 
-**RG 46**: Le leaderboard affiche des stats.
+**RG 47**: Le leaderboard affiche des stats.
 
-**RG 47**: Le leaderboard affiche des badges selon les statistiques des membres.
+**RG 48**: Le leaderboard affiche des badges selon les statistiques des membres.
 
