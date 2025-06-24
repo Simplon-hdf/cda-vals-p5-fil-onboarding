@@ -33,7 +33,7 @@ Des critères ont été définis selon les besoins du projet, chacun pondéré e
 | Intégration API Discord       | 2     | ★★★★★      | ★★★        | ★★★★               | ★★★    | ★★★★      | ★★★★       |
 | Documentation                 | 1.5   | ★★★★       | ★★★        | ★★★★               | ★★★    | ★★★       | ★★★        |
 | Mises à jour & Évolutivité    | 1     | ★★★★       | ★★★        | ★★★★               | ★★★    | ★★★       | ★★★        |
-| **Total pondéré (étoiles)**   |       | **60⭐**    | **47⭐**    | **55⭐**            | **53⭐**| **56⭐**   | **55⭐**    |
+| **Total**   |                 | **60⭐**    | **47⭐**    | **52⭐**            | **47⭐**| **51⭐**   | **50⭐**    |
 
 ---
 
@@ -50,7 +50,7 @@ Des critères ont été définis selon les besoins du projet, chacun pondéré e
 | Stabilité                  | 2     | ★★★★★      | ★★★★   | ★★★     | ★★★★   | ★★★    | ★★★★    |
 | Scalabilité                | 1.5   | ★★★★       | ★★★★   | ★★★★    | ★★     | ★★★    | ★★★★    |
 | Sauvegarde / Restauration  | 1     | ★★★★       | ★★★★   | ★★★★    | ★★★    | ★★★    | ★★★★    |
-| **Total pondéré (étoiles)**|       | **69.0⭐**  | **63.0⭐** | **58.0⭐** | **58.0⭐** | **57.5⭐** | **64.0⭐** |
+| **Total**|                 | **69.0⭐**  | **53.0⭐** | **43.0⭐** | **47.0⭐** | **43.5⭐** | **53.0⭐** |
 
 ---
 
