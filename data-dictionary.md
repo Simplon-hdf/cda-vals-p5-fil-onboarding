@@ -79,6 +79,8 @@
 | **Attribut**           | **Type**   | **Description**                                     | **Exemple**                                  | **Contrainte**         |
 |------------------------|------------|-----------------------------------------------------|----------------------------------------------|------------------------|
 | `id_xp`                | UUID       | Identifiant unique de l’expérience (XP)             | `4f9a2b18-7c7b-4c8a-bc90-9e0b1e2d4a5f`         | Primary key            |
+| `compte_xp`                | int       | nombre de gain expérience (XP)             | `4f9a2b18-7c7b-4c8a-bc90-9e0b1e2d4a5f`                | NOT NULL            |
+
 
 ---
 
