@@ -7,7 +7,6 @@
 | **Attribut**           | **Type**   | **Description**                                     | **Exemple**                                  | **Contrainte**         |
 |------------------------|------------|-----------------------------------------------------|----------------------------------------------|------------------------|
 | `snowflake_message`    | varchar    | ID du message sur Discord                           | `1387453638036946985`                         | PRIMARY KEY       |
-
 | `titre`                | varchar    | Titre du message                                    | `GitHub action explanation video`             |                        |
 | `description`          | text       | Description du message                              | `Voici une vidéo explicative de GitHub Actions pour débutants` | NOT NULL               |
 | `date_publication`     | timestamp  | Date de publication du message                      | `2025-06-26 14:30:00`       | NOT NULL               |
