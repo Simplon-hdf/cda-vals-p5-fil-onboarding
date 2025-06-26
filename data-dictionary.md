@@ -9,8 +9,8 @@
 | `snowflake_message`    | varchar    | ID du message sur Discord                           | `1387453638036946985`                         | PRIMARY KEY       |
 | `titre`                | varchar    | Titre du message                                    | `GitHub action explanation video`             |                        |
 | `description`          | text       | Description du message                              | `Voici une vidéo explicative de GitHub Actions pour débutants` | NOT NULL               |
-| `date_publication`     | timestamp  | Date de publication du message                      | `2025-06-26 14:30:00`       | NOT NULL               |
-| `date_modification`    | timestamp       | Date de modification du message               |`2025-06-26 14:30:00`    |                        |
+| `date_publication`     | timestamp  | Date de publication du message                      | `2025-06-26 14:30:00`                         | NOT NULL               |
+| `date_modification`    | timestamp       | Date de modification du message               |`2025-06-26 14:30:00`                           |                        |
 
 ---
 
@@ -18,7 +18,9 @@
 
 | **Attribut**           | **Type**   | **Description**                                     | **Exemple**                                  | **Contrainte**         |
 |------------------------|------------|-----------------------------------------------------|----------------------------------------------|------------------------|
-| `id_solution`          | UUID       | Identifiant unique de la solution                   | `4f9a2b18-7c7b-4c8a-bc90-9e0b1e2d4a5f`         | Primary key            |
+| `id_solution`          | UUID       | Identifiant unique de la solution                   | `4f9a2b18-7c7b-4c8a-bc90-9e0b1e2d4a5f`       | Primary key            |
+| `validee`              | boolean    | statut de validation                                | true                                         | not null           |
+
 
 ---
 
