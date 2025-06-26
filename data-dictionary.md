@@ -6,12 +6,12 @@
 
 | **Attribut**           | **Type**   | **Description**                                     | **Exemple**                                  | **Contrainte**         |
 |------------------------|------------|-----------------------------------------------------|----------------------------------------------|------------------------|
-| `id_message`           | UUID       | Identifiant unique du message                       | `4f9a2b18-7c7b-4c8a-bc90-9e0b1e2d4a5f`         | Primary key            |
+| `snowflake_message`    | varchar    | ID du message sur Discord                           | `1387453638036946985`                         | PRIMARY KEY       |
+
 | `titre`                | varchar    | Titre du message                                    | `GitHub action explanation video`             |                        |
 | `description`          | text       | Description du message                              | `Voici une vidéo explicative de GitHub Actions pour débutants` | NOT NULL               |
 | `date_publication`     | timestamp  | Date de publication du message                      | `2025-06-26 14:30:00`       | NOT NULL               |
 | `date_modification`    | timestamp       | Date de modification du message               |`2025-06-26 14:30:00`    |                        |
-| `snowflake_message`    | varchar    | ID du message sur Discord                           | `1387453638036946985`                         | UNIQUE, NOT NULL       |
 
 ---
 
@@ -62,8 +62,7 @@
 
 | **Attribut**           | **Type**   | **Description**                                     | **Exemple**                                  | **Contrainte**         |
 |------------------------|------------|-----------------------------------------------------|----------------------------------------------|------------------------|
-| `id_membre`            | UUID       | Identifiant unique du membre                        | `4f9a2b18-7c7b-4c8a-bc90-9e0b1e2d4a5f`         | Primary key            |
-| `snowflake_user`       | varchar    | ID Discord de l’utilisateur                         | `1387453638036946985`                         | UNIQUE, NOT NULL       |
+| `snowflake_user`       | varchar    | ID Discord de l’utilisateur                         | `1387453638036946985`                         | PRIMARY KEY       |
 
 ---
 
