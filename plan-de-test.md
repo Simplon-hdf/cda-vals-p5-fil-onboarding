@@ -1,46 +1,79 @@
-# 📋 Plan de Test — Tableau vierge
+# 📋 Plan de Test — Bot Discord de Collecte de Ressources
+
+---
 
 ## Introduction
 
-Ce plan de test décrit les vérifications à effectuer pour garantir le bon fonctionnement du bot Discord et de son API.
+Ce plan de test décrit les vérifications à effectuer pour garantir le bon fonctionnement du bot Discord et de son API.  
+
+---
 
 ## Périmètre des tests
 
-- Les fonctions du bots : 80%
-- Calculs/Formules d'expérience: 100%
-- Operation CRUD: 50%
-- Les endpoints: 100%   
+| Composant                            | Couverture visée |
+|-------------------------------------|------------------|
+| Fonctions du bot (commandes, logique) | 80%             |
+| Calculs / Formules d'expérience     | 100%             |
+| Opérations CRUD (ressources, utilisateurs) | 50%        |
+| Endpoints API                       | 100%             |
 
+---
 
 ## Stratégie de test
 
-- Tests Unitaires: Commandes Discord, Fonction métier
-- Intégration: Connexion API-BDD PostgreSQL, Interactions avec Discord
-- E2E: Entré de la commande à la base de donnée
+### 🔹 Tests Unitaires
 
+**Objectif :** Valider les comportements attendus de chaque fonction isolée.
 
-## Ressources
+- Commandes Discord
+- Fonctions de calcul (XP, classement)
+- Validation des entrées utilisateur
 
-- Qui: Toute l'équipe (3 personnes)
-- Jest pour les tests (NodeJS)
-- Serveur Discord pour test
+### 🔹 Tests d’intégration
 
+**Objectif :** Vérifier le bon fonctionnement entre les composants.
+
+- Interaction Bot ↔ API
+- API ↔ PostgreSQL
+- Bot ↔ Discord 
+
+### 🔹 Tests End-to-End (E2E)
+
+**Objectif :** Tester l’ensemble du parcours utilisateur.
+
+- Commande utilisateur Discord → Sauvegarde dans la base
+- Recherche de ressource → Résultat affiché dans Discord
+- Ajout de tags / votes → BDD mise à jour
+
+---
+
+## Ressources humaines & techniques
+
+- **Équipe de test:**
+  - 3 développeurs
+
+- **Outils :**
+  - Jest  
+  - Docker
+
+---
 
 ## Environnement de test
 
-- NodeJS
-- PostgreSQL (local)
-- Docker
-- Clé API bot
-- Serveur Discord de test
+- Node.js
+- PostgreSQL 
+- Clé API du bot 
+- Serveur Discord privé de test
 
+---
 
-## Critères d'acceptation
+## ✅ Critères d’acceptation
 
-- Pas d'erreurs (Requêtes API renvoient les bons code HTTP)
-- Exception faite des erreurs prises en charge
-- Pas de message perdu
-- Persistance des données
-
+| Critère                             | Détail                                                           |
+|------------------------------------|-------------------------------------------------------------------|
+| Aucune erreur critique non gérée   | Toutes les erreurs critiques prévues doivent être interceptées    |
+| Pas de message perdu               | Toutes les interactions utilisateur sont traitées                 |
+| Résilience à la latence Discord    | Pas de crash ou timeout en cas de réponse lente                   |
+| Persistance des données            | Les ressources et actions sont bien enregistrées en BDD           |
 
 
