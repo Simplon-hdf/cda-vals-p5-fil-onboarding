@@ -33,17 +33,17 @@ Ce plan de test décrit les vérifications à effectuer pour garantir le bon fon
 
 **Objectif :** Vérifier le bon fonctionnement entre les composants.
 
-- Interaction Bot ↔ API
-- API ↔ PostgreSQL
-- Bot ↔ Discord 
+- Interaction Bot <-> API
+- API <-> PostgreSQL
+- Bot <-> Discord 
 
 ### 🔹 Tests End-to-End (E2E)
 
 **Objectif :** Tester l’ensemble du parcours utilisateur.
 
-- Commande utilisateur Discord → Sauvegarde dans la base
-- Recherche de ressource → Résultat affiché dans Discord
-- Ajout de tags / votes → BDD mise à jour
+- Commande utilisateur Discord -> Sauvegarde dans la base
+- Recherche de ressource -> Résultat affiché dans Discord
+- Ajout de tags / votes -> BDD mise à jour
 
 ---
 
@@ -67,7 +67,7 @@ Ce plan de test décrit les vérifications à effectuer pour garantir le bon fon
 
 ---
 
-## ✅ Critères d’acceptation
+## Critères d’acceptation
 
 | Critère                             | Détail                                                           |
 |------------------------------------|-------------------------------------------------------------------|
