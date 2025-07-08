@@ -18,5 +18,3 @@ Ce tableau synthétise les problèmes identifiés dans le questionnaire ainsi qu
 
 ---
 
-📌 Ce tableau est utile pour justifier les choix techniques (automation, bot, archivage) dans les spécifications fonctionnelles et techniques du projet.
-
