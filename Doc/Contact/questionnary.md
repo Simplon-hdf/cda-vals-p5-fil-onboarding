@@ -14,21 +14,24 @@
 
 - Automatisation de la création d’une promo avec des templates réutilisables.
 - Création automatique des rôles avec la nouvelle promo.
-- Possibilité pour les apprenants de s’assigner à une promo.
+- Possibilité pour les apprenants de s’assigner à une promo(avec validation du CDP).
+- Système simple pour l'ajout de nouvelle promo.
 
 ### Le désordre dans le Discord
 
 - Le nombre de promos peut rendre le Discord illisible.
-- Cela peut donner une image peu professionnelle du Discord s’il n’y a pas de cohérence entre les promos.
+- Il peut être assez rapide d'atteindre la limite de salons, de canaux, et surtout de forums.
 - Les nouveaux apprenants peuvent être perdus.
 
 #### Proposition
 
-- Création automatique des promos préalablement programmées.
-- Archivage automatique des anciennes promos.
-- Normalisation des conventions de nommage.
+- Création automatique des promos aux date programmées.
+- Archivage automatique des anciennes promos, à une date programmée.
 - Présentation du serveur et de ses règles aux nouveaux arrivants.
 
 
+# Demande client
 
-
+Automatisation création promo
+Automatisation assignation à une promo
+Archivage des promos
