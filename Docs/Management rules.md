@@ -41,46 +41,48 @@
 
 **RG21:** Un nouvel arrivant peut demander de rejoindre une promotion en tant qu'apprenant ou formateur.
 **RG22:** Un nouvel arrivant doit renseigner son nom et son prénom en demandant de rejoindre une promotion.
+**RG23:** Un nouvel arrivant doit lire une explication du système d'onboarding.
 
 
 ## Apprenant
 
-**RG23:** Un apprenant peut demander de rejoindre une promotion.
-**RG24:** Un apprenant peut faire partie d'une seule promotion à la fois.
-**RG25:** Un apprenant est définit par le rôle apprenant.
+**RG24:** Un apprenant peut demander de rejoindre une promotion.
+**RG25:** Un apprenant peut faire partie d'une seule promotion à la fois.
+**RG26:** Un apprenant est définit par le rôle apprenant.
 
 
 ## Chef De Projet
 
-**RG26:** Un CDP peut créer une promo.
-**RG27:** Un CDP peut modifier une promo.
-**RG28:** Un CDP peut supprimer une promo.
-**RG29:** Un CDP est en charge d'une ou plusieurs promo(s).
-**RG30:** Un CDP doit accepter les demandes des persones souhaitant rejoindre une promo dont il est en charge.
+**RG27:** Un CDP peut créer une promo.
+**RG28:** Un CDP peut modifier une promo.
+**RG29:** Un CDP peut supprimer une promo.
+**RG30:** Un CDP est en charge d'une ou plusieurs promo(s).
+**RG31:** Un CDP doit accepter les demandes des persones souhaitant rejoindre une promo dont il est en charge.
 
 
 ## Formateur
 
-**RG31:** Un formateur peut faire partie d'une ou plusieurs promotions.
+**RG32:** Un formateur peut faire partie d'une ou plusieurs promotions.
 
 
 ## Administrateur
 
-**RG32:** Un Administrateur peut créer une promo.
-**RG33:** Un Administrateur peut modifier une promo.
-**RG34:** Un Administrateur peut supprimer une promo.
-**RG35:** Un Administrateur peut créer un nouveau campus.
+**RG33:** Un Administrateur peut créer une promo.
+**RG34:** Un Administrateur peut modifier une promo.
+**RG35:** Un Administrateur peut supprimer une promo.
+**RG36:** Un Administrateur peut créer un nouveau campus.
 
 
 ## Rôles et accès
 
-**RG36:** Un Administrateur est définit par le rôle Administrator.
-**RG37:** Un formateur est défini par le rôle formateur.
-**RG38:** Un CDP est défini par le rôle CDP.
-**RG39:** Les rôles sont généres automatiquement à la création d'une promotion.
-**RG40:** Rejoindre une formation donne aux participants le rôle unique, le rôle du type de formation, le rôle apprenant ou formateur et le rôle du campus de la formation.
-**RG41:** Rejoindre une formation retire le rôle Nouvel Arrivant.
-**RG42:** Le rôle Apprenant est automatiquement rajouté aux participanets au début de la formation.
-**RG43:** Le rôle Alumni est automatiquement rajouté aux participants à la fin de la formation.
-**RG44:** Le rôle unique de la promotion est supprimé de Discord à la fin de la promotion
+**RG37:** Le role Nouvelle Arrivant est donnée en rejoignant le serveur.
+**RG38:** Un Administrateur est définit par le rôle Administrator.
+**RG39:** Un formateur est défini par le rôle formateur.
+**RG40:** Un CDP est défini par le rôle CDP.
+**RG41:** Les rôles sont généres automatiquement à la création d'une promotion.
+**RG42:** Rejoindre une formation donne aux participants le rôle unique, le rôle du type de formation, le rôle apprenant ou formateur et le rôle du campus de la formation.
+**RG43:** Rejoindre une formation retire le rôle Nouvel Arrivant.
+**RG44:** Le rôle Apprenant est automatiquement rajouté aux participanets au début de la formation.
+**RG45:** Le rôle Alumni est automatiquement rajouté aux participants à la fin de la formation.
+**RG46:** Le rôle unique de la promotion est supprimé de Discord à la fin de la promotion
 
