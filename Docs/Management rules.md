@@ -48,7 +48,7 @@
 
 **RG24:** Un apprenant peut demander de rejoindre une promotion.
 **RG25:** Un apprenant peut faire partie d'une seule promotion à la fois.
-**RG26:** Un apprenant est définit par le rôle apprenant.
+**RG26:** Un apprenant est défini par le rôle apprenant.
 
 
 ## Chef De Projet
@@ -75,7 +75,7 @@
 
 ## Rôles et accès
 
-**RG37:** Le role Nouvelle Arrivant est donnée en rejoignant le serveur.
+**RG37:** Le rôle "nouvel arrivant" est attribué lorsqu'on rejoint le serveur.
 **RG38:** Un Administrateur est définit par le rôle Administrator.
 **RG39:** Un formateur est défini par le rôle formateur.
 **RG40:** Un CDP est défini par le rôle CDP.
