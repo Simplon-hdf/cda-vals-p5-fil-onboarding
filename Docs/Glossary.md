@@ -2,6 +2,10 @@
 
 ## Simplon
 
+### Nouvel Arrivant
+Rôle attirbué à ceux ayant rejoint le serveur Simplon récemment. Ne donne qu'accès à certains salons spécifiques.
+
+
 ### Apprenant
 Personne suivant une formation dans une promotion à Simplon.
 
