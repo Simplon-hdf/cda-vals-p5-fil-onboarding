@@ -4,7 +4,7 @@ Une liste des exigences fonctionnelles et non fonctionnelles pour le projet **On
 
 ## 🛠️ Fonctionnelles
 
-- Création automatique des rôles, groupe, canaux, salons et forums pour une promo 
+- Création automatique des rôles, groupes, canaux, salons et forums pour une promo 
 - Template pour les promos                                            
 - Auto-assignation de rôles
 - Possibilité de demander de rejoindre une promo
@@ -20,5 +20,5 @@ Une liste des exigences fonctionnelles et non fonctionnelles pour le projet **On
 - Bonne ergonomie, fonctionnement intuitif          
 - Manipulations gardées à un minimum               
 - Respect du RGPD
-- Prévenir du fait que l'on va garder des donnée à l'utilisateur                                   
+- Prévenir du fait que l'on va garder des données à l'utilisateur                                   
 - Politique du moindre privilège respecté                   
