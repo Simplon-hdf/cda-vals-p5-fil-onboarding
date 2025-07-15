@@ -12,7 +12,7 @@ Ce document décrit le modèle d’autorisations basé sur les rôles (RBAC) uti
 | **CDP**     | Chef de projet responsable de la gestion quotidienne des promos.            |
 | **Apprenant** | Utilisateur final, membre d’une promo, accès restreint.                   |
 | **Formateur** | En charge d'une ou plusieur promo, accès restreint                        |
-| **Staff Simplon**| Membre de Simplon, peut gerer des demande                                 |
+| **Staff Simplon**| Membre de Simplon, peut gérer des demandes                                 |
 
 
 ---
