@@ -11,8 +11,8 @@ Ce document décrit le modèle d’autorisations basé sur les rôles (RBAC) uti
 | **Admin**   | Rôle ayant tous les droits sur le système (création, modification, logs).   |
 | **CDP**     | Chef de projet responsable de la gestion quotidienne des promos.            |
 | **Apprenant** | Utilisateur final, membre d’une promo, accès restreint.                   |
-| **Formateur** | En charge d'une ou plusieur promo, accès restreint                        |
-| **Staff Simplon**| Membre de Simplon, peut gérer des demandes                                 |
+| **Formateur** | En charge d'une ou plusieurs promos, accès restreint.                     |
+| **Staff Simplon**| Membre de Simplon, peut gérer des demandes.                            |
 
 
 ---
