@@ -8,27 +8,28 @@ Ce document décrit le modèle d’autorisations basé sur les rôles (RBAC) uti
 
 | Rôle        | Description                                                                 |
 |-------------|-----------------------------------------------------------------------------|
-| **Admin**   | Rôle ayant tous les droits sur le système (création, modification, logs). |
-| **CDP**     | Chef de projet responsable de la gestion quotidienne des promos.          |
-| **Apprenant** | Utilisateur final, membre d’une promo, accès restreint.                  |
+| **Admin**   | Rôle ayant tous les droits sur le système (création, modification, logs).   |
+| **CDP**     | Chef de projet responsable de la gestion quotidienne des promos.            |
+| **Apprenant** | Utilisateur final, membre d’une promo, accès restreint.                   |
+| **Formateur** | En charge d'une ou plusieur promo, accès restreint                        |
+| **Staff Simplon**| Membre de Simplon, peut gerer des demande                                 |
+
 
 ---
 
 ##  Accès aux actions par rôle
 
-| Action                                     | Admin | CDP  | Apprenant |
-|--------------------------------------------|:-----:|:----:|:---------:|
-| Créer une promo                            | ✅    | ✅   | ❌        |
-| Modifier une promo                         | ✅    | ✅   | ❌        |
-| Supprimer une promo                        | ✅    | ✅   | ❌        |
-| Créer des rôles pour une promo             | ✅    | ✅   | ❌        |
-| Valider une demande d’identification       | ❌    | ✅   | ❌        |
-| Rejoindre une promo                        | ❌    | ❌   | ✅        |
-| Consulter les salons de sa promo           | ❌    | ❌   | ✅        |
-| Voir les promos disponibles                | ✅    | ✅   | ✅        |
-| Masquer ou afficher une promo              | ✅    | ✅   | ❌        |
-| Lire les logs                              | ✅    | ❌   | ❌        |
-| Créer un post ou forum dans une promo      | ✅    | ✅   | ✅        |
+| Action                                     | Admin | CDP  | Apprenant | Formateur | Staff Simplon |
+|--------------------------------------------|:-----:|:----:|:---------:|:---------:|:-------------:|
+| Créer une promo                            | ✅    | ✅   | ❌        |❌         |❌             |
+| Modifier une promo                         | ✅    | ✅   | ❌        |❌         |❌             |
+| Supprimer une promo                        | ✅    | ✅   | ❌        |❌         |❌             |
+| Valider une demande d’identification       | ❌    | ✅   | ❌        |❌         |✅             |
+| Faire une demande pour rejoindre une promo | ❌    | ❌   | ✅        |✅         |✅             |
+| Consulter les salons de sa promo           | ❌    | ❌   | ✅        |✅         |✅             |
+| Voir les promos disponibles                | ✅    | ✅   | ✅        |✅         |✅             |
+| Lire les logs                              | ✅    | ❌   | ❌        |❌         |❌             |
+| Créer un post ou forum dans une promo      | ✅    | ✅   | ✅        |✅         |✅             |
 
 ---
 
