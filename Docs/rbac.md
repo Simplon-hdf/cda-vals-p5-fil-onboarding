@@ -24,9 +24,9 @@ Ce document décrit le modèle d’autorisations basé sur les rôles (RBAC) uti
 | Créer une promo                            | ✅    | ✅   | ❌        |❌         |❌             |
 | Modifier une promo                         | ✅    | ✅   | ❌        |❌         |❌             |
 | Supprimer une promo                        | ✅    | ✅   | ❌        |❌         |❌             |
-| Valider une demande d’identification       | ❌    | ✅   | ❌        |❌         |✅             |
-| Faire une demande pour rejoindre une promo | ❌    | ❌   | ✅        |✅         |✅             |
-| Consulter les salons de sa promo           | ❌    | ❌   | ✅        |✅         |✅             |
+| Valider une demande d’identification       | ✅    | ✅   | ❌        |❌         |✅             |
+| Faire une demande pour rejoindre une promo | ✅    | ✅   | ✅        |✅         |✅             |
+| Consulter les salons de sa promo           | ✅    | ✅   | ✅        |✅         |✅             |
 | Voir les promos disponibles                | ✅    | ✅   | ✅        |✅         |✅             |
 | Lire les logs                              | ✅    | ❌   | ❌        |❌         |❌             |
 | Créer un post ou forum dans une promo      | ✅    | ✅   | ✅        |✅         |✅             |
