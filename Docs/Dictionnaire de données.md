@@ -7,7 +7,7 @@
 
 | Nom de la table         | Nom de la colonne                | Type         | Contraintes              | Exemple                                | Description                                      |
 |-------------------------|----------------------------------|--------------|--------------------------|----------------------------------------|--------------------------------------------------|
-| UTILISATEUR             | id_utilisateur                   | BIGINT       | PRIMARY KEY              | 101                                    | Identifiant unique de l’utilisateur              |
+| UTILISATEUR             | id_utilisateur                   | BIGINT       | PRIMARY KEY              | 1187363829782638592                    | Identifiant unique de l’utilisateur              |
 | UTILISATEUR             | nom_utilisateur                  | VARCHAR(100) | NOT NULL                 | Dupont                                 | Nom de famille de l’utilisateur                  |
 | UTILISATEUR             | prenom_utilisateur               | VARCHAR(100) | NOT NULL                 | Alice                                  | Prénom de l’utilisateur                          |
 | UTILISATEUR             | date_creation_utilisateur        | TIMESTAMPZ   | NOT NULL                 | 2025-07-15 10:30:00                    | Date de création de l’utilisateur                |
@@ -45,9 +45,9 @@
 | IDENTIFICATION          | date_creation_identification     | TIMESTAMPZ   | NOT NULL                 | 2025-05-01 10:00:00                    | Date de création                                 |
 | IDENTIFICATION          | date_modification_identification | TIMESTAMPZ   |                          | 2025-05-01 10:30:00                    | Date de modification                             |
 | IDENTIFICATION          | id_statut_identification         | SMALLSERIAL  | FK NOT NULL              | 2                                      | Statut de l’identification                       |
-| UTILISATEUR_ROLE        | id_utilisateur                   | BIGINT       | PK, FK                   | 101                                    | Utilisateur associé                              |
+| UTILISATEUR_ROLE        | id_utilisateur                   | BIGINT       | PK, FK                   | 1187363829782638592                    | Utilisateur associé                              |
 | UTILISATEUR_ROLE        | id_role                          | SMALLSERIAL  | PK, FK                   | 1                                      | Rôle associé                                     |
-| FAIRE_DEMANDE           | id_utilisateur                   | BIGINT       | PK, FK                   | 101                                    | Utilisateur qui fait la demande                  |
+| FAIRE_DEMANDE           | id_utilisateur                   | BIGINT       | PK, FK                   | 1187363829782638592                    | Utilisateur qui fait la demande                  |
 | FAIRE_DEMANDE           | id_identification                | UUID         | PK, FK                   | 550e8400-e29b-41d4-a716-446655440000   | Identification demandée                          |
 | APPARTENIR_PROMO        | id_promo                         | UUID         | PK, FK                   | 550e8400-e29b-41d4-a716-446655440000   | Promotion à laquelle appartient                  |
 | APPARTENIR_PROMO        | id_identification                | UUID         | PK, FK                   | 550e8400-e29b-41d4-a716-446655440000   | Identification associée                          |
