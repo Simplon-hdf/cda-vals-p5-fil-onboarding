@@ -24,12 +24,12 @@ Ce document décrit le modèle d’autorisations basé sur les rôles (RBAC) uti
 | Créer une promo                            | ✅    | ✅   | ❌        |❌         |❌             |
 | Modifier une promo                         | ✅    | ✅   | ❌        |❌         |❌             |
 | Supprimer une promo                        | ✅    | ✅   | ❌        |❌         |❌             |
-| Créer un campus                            | ✅    | ✅   | ❌        |❌         |❌             |
-| Modifier un campus                         | ✅    | ✅   | ❌        |❌         |❌             |
-| Supprimer un campus                        | ✅    | ✅   | ❌        |❌         |❌             |
-| Créer une formation                        | ✅    | ✅   | ❌        |❌         |❌             |
-| Modifier une formation                     | ✅    | ✅   | ❌        |❌         |❌             |
-| Supprimer une formation                    | ✅    | ✅   | ❌        |❌         |❌             |
+| Créer un campus                            | ✅    | ❌   | ❌        |❌         |❌             |
+| Modifier un campus                         | ✅    | ❌   | ❌        |❌         |❌             |
+| Supprimer un campus                        | ✅    | ❌   | ❌        |❌         |❌             |
+| Créer un formation                         | ✅    | ❌   | ❌        |❌         |❌             |
+| Modifier un formation                      | ✅    | ❌   | ❌        |❌         |❌             |
+| Supprimer un formation                     | ✅    | ❌   | ❌        |❌         |❌             |
 | Valider une demande d’identification       | ✅    | ✅   | ❌        |❌         |✅             |
 | Faire une demande pour rejoindre une promo | ✅    | ✅   | ✅        |✅         |✅             |
 | Consulter les salons de sa promo           | ✅    | ✅   | ✅        |✅         |✅             |
