@@ -32,11 +32,12 @@
 | CAMPUS                  | nom_campus                       | VARCHAR(100) | NOT NULL                 | Lille                                  | Nom du campus                                    |
 | CAMPUS                  | date_creation_campus             | TIMESTAMPZ   | NOT NULL                 | 2025-03-01 08:00:00                    | Date de création du campus                       |
 | CAMPUS                  | date_modification_campus         | TIMESTAMPZ   |                          | 2025-03-02 08:00:00                    | Date de modification du campus                   |
-| PROMO                   | id_promo                         | BIGINT       | PRIMARY KEY              | 1187363829782638592                    | Identifiant de la promotion                      |
+| PROMO                   | id_promo                         | UUID         | PRIMARY KEY              | 550e8400-e29b-41d4-a716-446655440000   | Identifiant de la promotion                      |
 | PROMO                   | nom_promo                        | VARCHAR(100) | NOT NULL                 | Promo Java 2025                        | Nom de la promotion                              |
 | PROMO                   | date_debut_promo                 | DATE         | NOT NULL                 | 2025-04-01                             | Date de début de la promotion                    |
 | PROMO                   | date_fin_promo                   | DATE         | NOT NULL                 | 2025-12-31                             | Date de fin de la promotion                      |
 | PROMO                   | date_creation_promo              | TIMESTAMPZ   | NOT NULL                 | 2025-03-01 10:00:00                    | Date de création de la promotion                 |
+| PROMO                   | snowflake_promo                  | UUID         | BIGINT                   | 1187363829782638592                    | Snowflake de la promotion                        |
 | PROMO                   | date_modification_promo          | TIMESTAMPZ   |                          | 2025-03-02 10:00:00                    | Date de modification                             |
 | PROMO                   | id_statut_promo                  | SMALLSERIAL  | FK NOT NULL              | 1                                      | Statut (clé étrangère vers STATUT_PROMO)         |
 | PROMO                   | id_formation                     | BIGINT       | FK NOT NULL              | 1187363829782638592                    | Formation associée                               |
