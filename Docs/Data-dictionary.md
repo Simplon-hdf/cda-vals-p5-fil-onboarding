@@ -17,7 +17,8 @@
 | ROLE                    | date_creation_role               | TIMESTAMPZ   | NOT NULL                 | 2025-06-10 09:00:00                    | Date de création du rôle                         |
 | ROLE                    | date_modification_role           | TIMESTAMPZ   |                          | 2025-06-12 14:45:00                    | Date de modification du rôle                     |
 | FORMATION               | id_formation                     | BIGINT       | PRIMARY KEY              | 1187363829782638592                    | Identifiant unique de la formation               |
-| FORMATION               | libelle_formation                | VARCHAR(100) | NOT NULL                 | CDA                                    | Libellé ou nom de la formation                   |
+| FORMATION               | nom_formation                    | VARCHAR(100) | NOT NULL                 | CDA                                    | Libellé ou nom de la formation                   |
+| FORMATION               | actif_formation                  | BOOLEAN      | NOT NULL                 | TRUE                                   | Statut de la formation                    |
 | FORMATION               | date_creation_formation          | TIMESTAMPZ   | NOT NULL                 | 2025-01-01 08:00:00                    | Date de création de la formation                 |
 | FORMATION               | date_modification_formation      | TIMESTAMPZ   |                          | 2025-01-15 09:00:00                    | Date de modification de la formation             |
 | STATUT_IDENTIFICATION   | id_statut_identification         | SMALLSERIAL  | PRIMARY KEY              | 1                                      | Identifiant du statut d’identification           |
@@ -30,6 +31,7 @@
 | STATUT_PROMO            | date_modification_statut_promo   | TIMESTAMPZ   |                          | 2025-01-22 13:00:00                    | Date de modification du statut                   |
 | CAMPUS                  | id_campus                        | BIGINT       | PRIMARY KEY              | 1187363829782638592                    | Identifiant du campus                            |
 | CAMPUS                  | nom_campus                       | VARCHAR(100) | NOT NULL                 | Lille                                  | Nom du campus                                    |
+| CAMPUS                  | actif_campus                     | BOOLEAN      | NOT NULL                 | true                                   | Statut du campus                                 |
 | CAMPUS                  | date_creation_campus             | TIMESTAMPZ   | NOT NULL                 | 2025-03-01 08:00:00                    | Date de création du campus                       |
 | CAMPUS                  | date_modification_campus         | TIMESTAMPZ   |                          | 2025-03-02 08:00:00                    | Date de modification du campus                   |
 | PROMO                   | id_promo                         | UUID         | PRIMARY KEY              | 550e8400-e29b-41d4-a716-446655440000   | Identifiant de la promotion                      |
