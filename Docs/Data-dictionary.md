@@ -14,6 +14,7 @@
 | UTILISATEUR             | date_modification_utilisateur    | TIMESTAMPZ   |                          | 2025-07-15 12:00:00                    | Date de modification de l’utilisateur            |
 | ROLE                    | id_role                          | SMALLSERIAL  | PRIMARY KEY              | 1                                      | Identifiant unique du rôle                       |
 | ROLE                    | nom_role                         | VARCHAR(50)  | NOT NULL                 | Administrateur                         | Nom du rôle                                      |
+| ROLE                    | selectionnable_role              | BOOLEAN      | NOT NULL                 | TRUE                                   | Indique si le rôle est sélectionnable lors d'une demande pour rejoindre une promotion. |
 | ROLE                    | date_creation_role               | TIMESTAMPZ   | NOT NULL                 | 2025-06-10 09:00:00                    | Date de création du rôle                         |
 | ROLE                    | date_modification_role           | TIMESTAMPZ   |                          | 2025-06-12 14:45:00                    | Date de modification du rôle                     |
 | FORMATION               | id_formation                     | BIGINT       | PRIMARY KEY              | 1187363829782638592                    | Identifiant unique de la formation               |
